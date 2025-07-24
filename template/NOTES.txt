@@ -1,1 +1,4 @@
-Here is an example of a `NOTES.txt` file!
+Here is an example of a `NOTES.txt` file! {{ .ProjectName }}
+
+This is for org: {{ .Values.org }}
+This is for team: {{ .Values.team }}
