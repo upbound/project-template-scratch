@@ -12,6 +12,9 @@ files:
   "README.md":
     template: true
     required: true
+  "NOTES.txt":
+    template: true
+    required: true
   "upbound.yaml":
     template: true
     required: true
